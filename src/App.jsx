@@ -4,7 +4,7 @@ import BoasVindas from "./components/boasVindas";
 import ListaTarefas from "./components/ListaTarefas";  
 import minhaImagem from "./assets/minhaImagem.png";
   
-function Home() {  cd
+function Home() {  
   return (  
     <div style={{ textAlign: "center", marginTop: "40px" }}>  
     <img src={minhaImagem} alt="Flores" style={{ width: "400px" }} /> 
